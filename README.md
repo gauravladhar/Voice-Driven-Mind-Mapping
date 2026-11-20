@@ -47,4 +47,4 @@ pip install fastapi uvicorn openai-whisper torch neo4j ffmpeg-python python-dote
 3. Frontend Setup (React)
 <pre>cd client
 npm install
-npm start</pre>
+npm start</pre> 
